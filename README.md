@@ -1,4 +1,5 @@
 ## Hi! I'm Breno Ingwersen 👋
+<p align=left> <img src=https://komarev.com/ghpvc/?username=brenoingwersen alt=brenoingwersen /> </p>
 
 - 🔭 I’m currently working as a Data Scientist for Accenture Brazil
 - 🌱 I’m studying Python, Statistics and Machine Learning
