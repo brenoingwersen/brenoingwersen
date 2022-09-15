@@ -6,8 +6,12 @@
 <div align="center">
   <a href="https://github.com/brenoingwersen">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoingwersen&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoingwersen&layout=compact">
+  
+  <!Se eu quiser ocultar "jupyter Notebook" 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoingwersen&layout=compact&hide=jupyter%20notebook">
 </div>
+
 <div style="display: inline_block"><br>
 <!-- Tech Icons Source -->
   <a href="https://www.python.org/"><img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a/>
