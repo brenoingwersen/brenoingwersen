@@ -15,11 +15,13 @@
 <div style="display: inline_block"><br>
 <!-- Tech Icons Source -->
   <a href="https://www.python.org/"><img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a/>
+   <a href="https://www.anaconda.com/"><img align="center" alt="Anaconda" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"><a/>
   <a href="https://www.microsoft.com/en-us/sql-server/"><img align="center" alt="SQL-server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   <a href="https://jupyter.org/"><img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"><a/>
   <a href="https://numpy.org/"><img align="center" alt="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"><a/>
   <a href="https://pandas.pydata.org/"><img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"><a/>
   <a href="https://seaborn.pydata.org/"><img align="center" alt="Seaborn" height="40" width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"><a/>
+  <a href="https://www.tensorflow.org/"><img align="center" alt="TensorFlow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a>
 </div>
 
 #
