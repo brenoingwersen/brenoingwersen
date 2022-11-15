@@ -1,6 +1,6 @@
 ## Hi! I'm Breno Ingwersen 👋
 
-- 🔭 I’m currently working as a Data Scientist for Accenture Brazil
+- 🔭 I’m currently working as a Data Scientist for Stefanini Brazil
 - 🌱 I’m studying Python, Statistics and Machine Learning
 
 <div align="center">
