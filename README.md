@@ -6,9 +6,7 @@
 <div align="center">
   <a href="https://github.com/brenoingwersen">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoingwersen&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoingwersen&layout=compact">
-  
-  <!Se eu quiser ocultar "jupyter Notebook" 
+<!-- To also display jupyter files remove the last query param -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoingwersen&layout=compact&hide=jupyter%20notebook">
 </div>
 
