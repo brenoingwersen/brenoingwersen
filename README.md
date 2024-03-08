@@ -1,14 +1,8 @@
-## Hi! I'm Breno Ingwersen 👋
+## Hi! I'm Breno Ingwersen, a data scientist that also enjoys development 👋
 
 - 🔭 I’m currently working as a Data Scientist for Stefanini Brazil
-- 🌱 I’m studying Python, Statistics and Machine Learning
-
-<div align="center">
-  <a href="https://github.com/brenoingwersen">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoingwersen&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-<!-- To also display jupyter files remove the last query param -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoingwersen&layout=compact&hide=jupyter%20notebook">
-</div>
+- 🌱 I’m studying Python, Statistics, Machine Learning and Deep Learning!
+- 🛠 I'm also studying frontend and backend development to create cool applications!
 
 <div style="display: inline_block"><br>
 <!-- Tech Icons Source -->
@@ -22,7 +16,6 @@
 </div>
 
 #
-  
 <div> 
   <a align=left> <img src=https://komarev.com/ghpvc/?username=brenoingwersen&style=for-the-badge alt=brenoingwersen /> </a>
   <a href = "mailto:brenoingwersen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
