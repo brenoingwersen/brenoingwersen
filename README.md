@@ -1,6 +1,6 @@
-## Hi! I'm Breno Ingwersen, a data scientist that also enjoys development 👋
+## Hi! I'm Breno Ingwersen, a data scientist 👋
 
-- 🔭 I’m currently working as a Data Scientist for Stefanini Brazil
+- 🔭 I’m currently working as a Data Scientist for [BEES](https://www.mybees.com.br/)
 - 🌱 I’m studying Python, Statistics, Machine Learning and Deep Learning!
 - 🛠 I'm also studying frontend and backend development to create cool applications!
 
